@@ -1,0 +1,16 @@
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\bin\Debug\netcoreapp2.2\PerlinkProcesso.deps.json
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\bin\Debug\netcoreapp2.2\PerlinkProcesso.runtimeconfig.json
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\bin\Debug\netcoreapp2.2\PerlinkProcesso.runtimeconfig.dev.json
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\bin\Debug\netcoreapp2.2\PerlinkProcesso.dll
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\obj\Debug\netcoreapp2.2\PerlinkProcesso.RazorAssemblyInfo.cache
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\obj\Debug\netcoreapp2.2\PerlinkProcesso.RazorAssemblyInfo.cs
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\obj\Debug\netcoreapp2.2\PerlinkProcesso.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\obj\Debug\netcoreapp2.2\PerlinkProcesso.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\obj\Debug\netcoreapp2.2\PerlinkProcesso.RazorTargetAssemblyInfo.cache
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\bin\Debug\netcoreapp2.2\PerlinkProcesso.pdb
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\obj\Debug\netcoreapp2.2\PerlinkProcesso.dll
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\obj\Debug\netcoreapp2.2\PerlinkProcesso.pdb
+C:\Users\Filipe\source\repos\PerlinkProcesso\PerlinkProcesso\obj\Debug\netcoreapp2.2\PerlinkProcesso.csprojAssemblyReference.cache
